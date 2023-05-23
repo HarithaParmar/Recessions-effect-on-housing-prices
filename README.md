@@ -1,7 +1,5 @@
 # Project Description
 
-
-
 ![house.jpg](Resources/house.jpg)
 
 The scope of this project is to review United States’ housing data since the housing market collapsed in 2008 and identify how the market has or has not rebounded between then and 2019. 
